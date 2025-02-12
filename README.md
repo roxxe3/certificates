@@ -22,6 +22,6 @@ Welcome to my **Certificates Repository**, where I showcase my professional cert
 
 If you have any questions or want to collaborate, feel free to reach out!
 
-🔗 [LinkedIn](#https://www.linkedin.com/in/hamza-farissi212001/) | 📧 [Email](mailto:hamzafarssi7@gmail.com) | 💻 [Portfolio](https://wondrous-mousse-3c1011.netlify.app/)
+🔗 [LinkedIn](https://www.linkedin.com/in/hamza-farissi212001/) | 📧 [Email](mailto:hamzafarssi7@gmail.com) | 💻 [Portfolio](https://wondrous-mousse-3c1011.netlify.app/)
 
 ---
