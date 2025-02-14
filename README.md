@@ -6,7 +6,7 @@ Welcome to my **Certificates Repository**, where I showcase my professional cert
 
 | Certificate | Issuer | Date | Verification |
 |------------|--------|------|-------------|
-| AWS Certified Solutions Architect - Associate | Amazon Web Services (AWS) | YYYY-MM-DD | [Verify](#) |
+| AWS Certified Solutions Architect - Associate | Amazon Web Services (AWS) | YYYY-MM-DD | [Verify](AWS Solutions Architect - Associate Certificate.pdf) |
 | ALX Software Engineering Program | ALX Africa | YYYY-MM-DD | [Verify](#) |
 | Cloud Practitioner | Amazon Web Services (AWS) | YYYY-MM-DD | [Verify](#) |
 
