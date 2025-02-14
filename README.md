@@ -6,9 +6,9 @@ Welcome to my **Certificates Repository**, where I showcase my professional cert
 
 | Certificate | Issuer | Date | Verification |
 |------------|--------|------|-------------|
-| AWS Certified Solutions Architect - Associate | Amazon Web Services (AWS) | YYYY-MM-DD | [Verify](AWS Solutions Architect - Associate Certificate.pdf) |
-| ALX Software Engineering Program | ALX Africa | YYYY-MM-DD | [Verify](#) |
-| Cloud Practitioner | Amazon Web Services (AWS) | YYYY-MM-DD | [Verify](#) |
+| AWS Certified Solutions Architect - Associate | Amazon Web Services (AWS) | YYYY-MM-DD | [Verify](AWS_Solutions_Architect_Associate_Certificate.pdf) |
+| ALX Software Engineering Program | ALX Africa | YYYY-MM-DD | [Verify](ALX_Software_Engineering_Program_Certificate.pdf) |
+| Cloud Practitioner | Amazon Web Services (AWS) | YYYY-MM-DD | [Verify](Cloud_Practitioner_Certificate.pdf) |
 
 *(More certifications will be added as I earn them.)*
 
